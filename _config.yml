@@ -103,7 +103,7 @@ author:
       url: "mailto:bboddak@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ansohxxn"
+      url: "https://github.com/GangCat"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/06.25ash"
@@ -116,7 +116,7 @@ author:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    
+
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
-    
+
       # url:
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
